@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37501517521",
+    "project_id": "licorera-a8bd7",
+    "storage_bucket": "licorera-a8bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37501517521:android:dbb000941fe79f3b5ecff0",
+        "android_client_info": {
+          "package_name": "com.licorera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0PkPjk4vpaJ18GHuFkxcVtxzURL-mYkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
